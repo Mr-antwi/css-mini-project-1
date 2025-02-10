@@ -97,8 +97,8 @@ footer{
 
 .card img{
     border: 5px solid double #333;
-    width: 300px;
-    height: 300px;
+    width:  200px;
+    height: 200px;
     border-radius: 50%;
     text-align: center;
 }
